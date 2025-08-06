@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishna Verma
 - 👀 I’m interested in contributing to C# open source projects .
 - 💞️ I am accomlished DevOps engineer
-- 📫 Tech Stack- Azure , Terrafrom , Ansible 
+- 📫 Tech Stack- Azure DevOps , Git Actions, Azure, Terrafrom, Powershell, Bash, Python ,   
 
 <!---
 VermaKrishna/VermaKrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
