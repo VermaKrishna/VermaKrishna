@@ -32,4 +32,4 @@ I'm a seasoned DevOps and Cloud Solution Architect with deep expertise in design
 
 Open to consultancy, collaboration, and interesting conversations around cloud and DevOps.
 
-📧 **krishnaverma018@gmail.com**
+https://www.upwork.com/agencies/2033112326461503178/
